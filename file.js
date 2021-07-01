@@ -9,7 +9,6 @@ no longer works because at the time of this writing, browsers
 out of the box do not support node modules. 
 Webpack can help us solve this problem  */ 
 
-
 //import { pascalCase } from "pascal-case";
 
 const title = document.getElementById("title");
