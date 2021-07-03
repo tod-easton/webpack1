@@ -23,8 +23,8 @@ module.exports = {
       // the `...` syntax on the next line extends the existing minimizers (i.e. `terser-webpack-plugin`), 
       // for example, if you want to keep minifiying javascript as you were before, keep the `...` 
       // before calling new CssMinimizerPlugin()
-      // `...`,
-      // new CssMinimizerPlugin(),
+      `...`,
+      new CssMinimizerPlugin(),
     ],
   },
 };
