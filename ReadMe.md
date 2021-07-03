@@ -8,3 +8,6 @@ https://youtu.be/44TA06_cEjo
 part two:
 https://youtu.be/tWI53Xe-YJM
 
+
+
+Be sure to check out the other branches to see more lessons in terms of adding CSS to your bundle. 
