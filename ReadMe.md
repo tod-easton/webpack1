@@ -8,3 +8,8 @@ https://youtu.be/44TA06_cEjo
 part two:
 https://youtu.be/tWI53Xe-YJM
 
+part three: Adding CSS to Webpack
+https://youtu.be/j7fd28HqUTw
+
+part four: Minifiying CSS 
+https://youtu.be/KMYZf8xPdUs
