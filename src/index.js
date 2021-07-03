@@ -1,5 +1,5 @@
 import { pascalCase } from "pascal-case";
-import  themessage  from "./another.js";
+import  themessage  from "./message.js";
 
 const title = document.getElementById("title");
 
