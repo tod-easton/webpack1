@@ -9,13 +9,15 @@ no longer works because at the time of this writing, browsers
 out of the box do not support node modules. 
 Webpack can help us solve this problem  */ 
 
-// import { pascalCase } from "pascal-case";
+import { pascalCase } from "pascal-case";
+import themessage from "./another.js";
 
 const title = document.getElementById("title");
 
-title.innerHTML = "the quick brown fox";
+// title.innerHTML = "the quick brown fox";
 
 
-//title.innerHTML = pascalCase("the quick brown fox");
+// title.innerHTML = pascalCase("the quick brown bird");
+title.innerHTML = pascalCase(themessage);
 
  
